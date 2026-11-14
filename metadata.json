@@ -1,0 +1,6 @@
+{
+  "name": "Geometry Dash 3D - Neon Rhythm Rush",
+  "description": "Trò chơi Geometry Dash 3D với cơ chế điều khiển mượt mà, âm nhạc nhịp điệu cuốn hút, nhiều cấp độ thử thách và hệ thống tùy chỉnh nhân vật phong phú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
